@@ -1,0 +1,25 @@
+.nav{
+  background-color: black;
+  height: 190px;
+  color: white;
+}
+#iconn{
+  border-radius: 90px;
+}
+.navbar>li>a{
+  text-decoration: none;
+  color: white;
+  padding-left: 5px;
+}
+#projects,#me{
+  display: none;
+}
+.form-control{
+  width: 250px;
+}
+.icon {
+    height: 20px;
+  }
+body{
+  background-image: url("../img/bg.jpg")
+}
